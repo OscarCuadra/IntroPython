@@ -6,3 +6,4 @@ Benvinguts al meu repositori de Python
 
 - [Hello World](hello_world.py)
 - [Bateria - Act 1](suma.py)
+- [Bateria - Act 2](doble.py)
